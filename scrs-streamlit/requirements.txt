@@ -38,7 +38,6 @@ cryptography==3.4.7
 cycler==0.10.0
 cymem==2.0.5
 Cython==0.29.21
-dataclasses==0.8
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.1
